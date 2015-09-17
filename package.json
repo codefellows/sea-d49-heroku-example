@@ -19,5 +19,8 @@
     "test": "./node_modules/mocha/bin/mocha test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.10" 
+  }
 }
